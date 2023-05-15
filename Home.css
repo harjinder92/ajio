@@ -1,0 +1,16 @@
+.bg-img {
+  height: 100%;
+  width: 100%;
+  margin-top: -15px;
+}
+.parent-container {
+  position: relative;
+  color: black;
+}
+h2 {
+  position: absolute;
+  top: 10%;
+  left: 40%;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 50px;
+}

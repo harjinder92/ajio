@@ -1,0 +1,35 @@
+.container-abt {
+  background-color: blanchedalmond;
+  color: black;
+
+  overflow: hidden;
+}
+.container-abt h5 {
+  text-align: center;
+  font-size: larger;
+}
+ul li {
+  display: inline-block;
+  text-decoration: none;
+  align-items: center;
+  color: blue;
+}
+li {
+  text-align: center;
+}
+
+.coll {
+  float: left;
+  width: 50%;
+  height: 200px;
+}
+.roww {
+  content: "";
+  display: table;
+  clear: both;
+  margin-left: 25px;
+}
+.list {
+  align-items: center;
+  margin-left: 150px;
+}

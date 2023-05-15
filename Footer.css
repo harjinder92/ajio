@@ -1,0 +1,22 @@
+.column {
+  float: left;
+  width: 25%;
+  padding: 10px;
+  height: 250px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.column {
+  background-color: bisque;
+  color: black;
+  box-shadow: 5px 5px 10px gray;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.box {
+  bottom: 0%;
+}

@@ -1,0 +1,19 @@
+.item{
+  background-color:rgb(1, 1, 68);
+  width: 100%;
+  font-size: x-large;
+  padding:2px;
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+}
+.dbs{
+  width: 25%;
+  color: blue;
+  margin: 8%;
+  cursor: pointer;
+
+}
+body{
+  background-color:rgb(1, 1, 68);
+}

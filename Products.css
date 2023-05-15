@@ -1,0 +1,46 @@
+.header {
+  font-weight: bolder;
+  text-align: center;
+}
+.contain {
+  display: flex;
+  max-width: 1300px;
+  margin: auto;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.box {
+  width: 28%;
+  margin: 10px;
+  padding: 20px;
+  box-shadow: 2px 2px 10px gray;
+}
+h5 {
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+}
+.pic {
+  width: 200px;
+  height: 250px;
+  object-fit: contain;
+}
+.btn {
+  background-color: skyblue;
+  border: 1px;
+  color: white;
+  font-size: 16px;
+}
+.button {
+  box-shadow: 2px 2px 10px;
+  margin: 10px;
+  padding: 10px;
+  margin-left: 5rem;
+  color: bisque;
+}
+.container-btn {
+  display: flex;
+  max-width: 1300px;
+  margin: auto;
+  flex-wrap: wrap;
+  justify-content: center;
+}

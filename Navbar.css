@@ -1,0 +1,30 @@
+.logo {
+  font-weight: bold;
+  font-size: 40px;
+  margin-left: 5px;
+}
+
+.navigation-bar {
+  background-color: beige;
+  box-shadow: 0px;
+}
+.navigation-bar ul {
+  display: flex;
+  list-style-type: none;
+  overflow: hidden;
+  justify-content: center;
+}
+.navigation-bar ul li a {
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.navigation-bar ul li a:hover {
+  color: burlywood;
+}
+.button1 {
+  float: right;
+}
